@@ -1,0 +1,396 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerBattleBGM=005-Boss01.mid
+SurfBGM=Ship.mid
+BicycleBGM=Airship.mid
+Home=3,7,5,8
+WildBattleBGM=002-Battle02.mid
+[001]
+# Intro
+[002]
+# Sax
+MapSize=0,
+TrainerBattleBGM=022-Field05.mid
+MapPosition=0,17,19
+Outdoor=true
+ShowArea=true
+[003]
+# Casa de \PN
+BattleBack=IndoorB
+MapPosition=0,13,12
+HealingSpot=2,8,8
+[004]
+# Laboratorio Pokémon
+MapPosition=0,13,12
+ShowArea=false
+[005]
+# Ruta 1
+Bicycle=true
+MapPosition=0,17,18
+Outdoor=true
+ShowArea=true
+[006]
+# Casa de Bernar
+MapPosition=0,14,17
+[007]
+# Ciudad Milanesa
+MapSize=2,11
+MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
+[008]
+# Casa de Venancio
+MapPosition=0,13,12
+[009]
+# Centro Pokémon
+MapPosition=0,14,10
+HealingSpot=8,17,11
+[010]
+# Mansión Toro Sentado Exterior
+BattleBack=IndoorB
+Weather=Storm,100
+MapPosition=0,11,15
+Outdoor=true
+[011]
+# Instituto Pokémon
+MapPosition=0,14,10
+[012]
+# Ciudad Texola
+MapPosition=0,14,10
+[013]
+# Rincón de Juegos
+MapPosition=0,14,10
+[014]
+# Centro Comercial PB
+MapPosition=0,13,10
+[015]
+# Centro Comercial P1
+MapPosition=0,13,10
+[016]
+# Centro Comercial P2
+MapPosition=0,13,10
+[017]
+# Centro Comercial P3
+MapPosition=0,13,10
+[018]
+# Centro Comercial P4
+MapPosition=0,13,10
+[019]
+# Centro Comercial Azotea
+MapPosition=0,13,10
+[020]
+# Centro Comercial Ascensor
+MapPosition=0,13,10
+[021]
+# mapas predeterminados
+MapSize=1,11
+Weather=Rain,50
+MapPosition=0,14,8
+Outdoor=true
+ShowArea=true
+[023]
+# Pueblo Lomito
+MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
+[024]
+# Centro Pokémon
+MapPosition=0,15,8
+HealingSpot=23,11,15
+[025]
+# Tienda
+MapPosition=0,15,8
+[026]
+# Club Fanáticos Pokémon
+MapPosition=0,15,8
+[027]
+# Guardería Pokémon
+MapPosition=0,15,8
+[028]
+# Parque Natural
+BattleBack=Forest
+MapPosition=0,16,8
+Outdoor=true
+ShowArea=true
+[029]
+# Entrada Parque Natural
+Bicycle=true
+MapPosition=0,16,8
+[030]
+# Sala Parque Natural
+MapPosition=0,16,8
+[031]
+# Ruta 3
+MapSize=2,1101
+MapPosition=0,14,6
+Outdoor=true
+ShowArea=true
+[032]
+# Ruinas del arroz con piña
+Bicycle=true
+MapPosition=0,16,19
+Outdoor=true
+ShowArea=true
+[033]
+# Ruta 2
+SnapEdges=false
+Bicycle=true
+MapPosition=0,14,16
+Outdoor=true
+ShowArea=true
+[034]
+# Cueva Helada
+BattleBack=IndoorC
+Bicycle=true
+MapPosition=0,15,6
+[035]
+# Monte Plateado
+MapPosition=0,13,6
+Outdoor=true
+ShowArea=true
+[036]
+# Liga Pokémon
+MapPosition=0,13,6
+HealingSpot=35,17,7
+[037]
+# Liga Pokémon
+BattleBack=EliteA
+MapPosition=0,13,6
+[038]
+# Hall de la Fama
+MapPosition=0,13,6
+[039]
+# Ruta 4
+MapSize=2,11
+MapPosition=0,11,6
+Outdoor=true
+ShowArea=true
+[040]
+# Ruta 4
+MapPosition=0,11,6
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[041]
+# Senda del caramelito
+MapSize=1,111
+Weather=Storm,100
+Bicycle=true
+MapPosition=0,11,7
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[042]
+# Monte Salseo
+MapPosition=0,12,16
+[043]
+# Pueblo piruleta
+Bicycle=true
+MapPosition=0,12,14
+Outdoor=true
+ShowArea=true
+[044]
+# Ruta 6
+MapSize=2,11
+MapPosition=0,11,10
+Outdoor=true
+ShowArea=true
+[045]
+# Ruta 6
+MapPosition=0,11,10
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[046]
+# Entrada Ruta Ciclista
+Bicycle=true
+MapPosition=0,12,6
+[047]
+# Ruta 7
+MapSize=2,11
+BattleBack=Mountain
+Weather=Rain,0
+MapPosition=0,15,10
+Outdoor=true
+ShowArea=true
+[049]
+# Cueva Rocosa
+Bicycle=true
+MapPosition=0,16,10
+[050]
+# Cueva Rocosa
+BattleBack=CaveDark
+Bicycle=true
+MapPosition=0,16,10
+DarkMap=true
+[051]
+# Mazmorra
+Bicycle=true
+Dungeon=true
+MapPosition=0,16,10
+[052]
+# Frente de Batalla
+MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
+[053]
+# Centro Pokémon
+MapPosition=0,17,10
+HealingSpot=52,17,14
+[054]
+# Tienda
+MapPosition=0,17,10
+[055]
+# Torre Batalla
+MapPosition=0,17,10
+HealingSpot=52,30,10
+[056]
+# Campo Torre Batalla
+BattleBack=EliteA
+MapPosition=0,17,10
+[057]
+# Hall Copa Estadio
+MapPosition=0,17,10
+[058]
+# Palacio Batalla
+MapPosition=0,17,10
+[059]
+# Campo Palacio Batalla
+BattleBack=EliteD
+MapPosition=0,17,10
+[060]
+# Dojo Batalla
+MapPosition=0,17,10
+[061]
+# Campo Dojo Batalla
+BattleBack=EliteB
+MapPosition=0,17,10
+[062]
+# Fábrica Batalla
+MapPosition=0,17,10
+[063]
+# Intro Pasillo de Fábrica Batalla
+MapPosition=0,17,10
+[064]
+# Campo Fábrica Batalla
+BattleBack=EliteC
+MapPosition=0,17,10
+[065]
+# Pasillo de Fábrica Batalla
+MapPosition=0,17,10
+[066]
+# Zona Safari
+MapPosition=0,12,12
+Outdoor=true
+ShowArea=true
+[067]
+# Entrada Zona Safari
+MapPosition=0,12,12
+[068]
+# Zona Safari
+BattleBack=Forest
+MapPosition=0,12,12
+SafariMap=true
+Outdoor=true
+ShowArea=true
+[069]
+# Ruta 8
+DiveMap=70
+MapPosition=0,13,13
+Outdoor=true
+ShowArea=true
+[070]
+# Fondo Marino
+MapPosition=0,13,13
+[071]
+# Puerto
+MapPosition=0,13,13
+[072]
+# Isla Daroxy
+Weather=Storm,50
+MapPosition=0,18,17
+Outdoor=true
+ShowArea=true
+[073]
+# Isla Faraday
+MapPosition=0,22,16
+Outdoor=true
+ShowArea=true
+[074]
+# Entrada Ruta Ciclista
+Bicycle=true
+MapPosition=0,12,10
+[075]
+# Región Tiall
+MapPosition=1,13,16
+Outdoor=true
+[081]
+# Ruta 6
+Weather=Storm,100
+MapPosition=0,12,15
+Outdoor=true
+ShowArea=true
+[082]
+# Pueblo piruleta 2
+Weather=Storm,100
+Bicycle=true
+Outdoor=true
+[083]
+# Ciudad Texola
+SnapEdges=false
+Bicycle=true
+MapPosition=0,16,16
+Outdoor=false
+ShowArea=true
+[098]
+# Ciudad Texola
+[103]
+# Monte Salseo
+[107]
+# Ruta 3
+Bicycle=true
+MapPosition=0,10,14
+Outdoor=true
+ShowArea=true
+[108]
+# Bulensia
+MapSize=1,
+Bicycle=true
+MapPosition=0,8,13
+Outdoor=true
+HealingSpot=111,7,8
+ShowArea=true
+[110]
+# Ruta 4
+Bicycle=true
+MapPosition=0,8,12
+Outdoor=true
+ShowArea=true
+[127]
+# Ruta 5
+Bicycle=true
+MapPosition=0,12,13
+Outdoor=true
+ShowArea=true
+[129]
+# Cueva chiste malo
+DarkMap=true
+[131]
+# Conexión ruta4-cueva chiste
+Outdoor=true
+[150]
+# Ciudad Enlace exterior
+Bicycle=true
+MapPosition=0,14,10
+Outdoor=true
+ShowArea=true
+[151]
+# Ciudad Enlace
+MapPosition=0,14,11
+[153]
+# Fosa de Darkrai
+DarkMap=true
+[169]
+# Casa morada
+DarkMap=true

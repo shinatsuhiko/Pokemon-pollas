@@ -1,0 +1,82 @@
+# Ruta 8 (69) - Ruta 6 (44)
+69,North,43,44,South,0
+# Monte Plateado (35) - Ruta 4 (39)
+35,West,11,39,East,0
+# Ruta 3 (31) - Pueblo Lomito (23)
+31,South,32,23,North,0
+# mapas predeterminados (21) - Pueblo Lomito (23)
+21,East,16,23,West,0
+# Ruta 3 (31) - Monte Plateado (35)
+31,West,0,35,East,10
+# Ruta 7 (47) - Frente de Batalla (52)
+47,East,8,52,West,0
+# mapas predeterminados (21) - Ruta 7 (47)
+21,East,94,47,West,0
+# Mansión interior (134) - comedor mansión (137)
+134,West,0,137,East,1
+# Pasillo (139) - Cocina (138)
+139,West,0,138,East,7
+# Esquina pasillo (141) - Pasillo (139)
+141,West,0,139,East,1
+# Esquina pasillo (141) - Mansión interior (134)
+141,West,21,134,East,0
+# Barco (184) - Barco arriba (173)
+184,North,0,173,South,0
+# lado izquierdo piruleta (135) - Conexión Pueblo Piruleta 1 (132)
+135,North,14,132,South,0
+# Pueblo piruleta (43) - Conexión Pueblo Piruleta 1 (132)
+43,North,0,132,South,6
+# Pueblo piruleta (43) - lado izquierdo piruleta (135)
+43,West,0,135,East,0
+# Monte Salseo (103) - Sala salseo (100)
+103,East,11,100,West,0
+# rellenopiruleta2 (136) - Pueblo piruleta 2 (82)
+136,North,3,82,South,0
+# Ruta 6 (81) - Pueblo piruleta 2 (82)
+81,North,0,82,South,16
+# Pueblo piruleta 2 (82) - Conexión Pueblo Piruleta Triste (133)
+82,1,0,133,0,24
+# Senda del caramelito (41) - Relleno caramelito (155)
+41,North,20,155,South,0
+# Acantilado negro (152) - Senda del caramelito (41)
+152,East,0,41,West,23
+# Ruta 6 (81) - Senda del caramelito (41)
+81,West,26,41,East,0
+# Mansión Toro Sentado Exterior (10) - Senda del caramelito (41)
+10,South,4,41,North,0
+# Fosa de Darkrai (153) - Acantilado negro (152)
+153,East,0,152,West,0
+# Ciudad Texola (83) - Ruta 1 (5)
+83,South,0,5,North,5
+# Sax (2) - Ruta 1 (5)
+2,North,0,5,South,3
+# Ruinas del arroz con piña (32) - Ruta 1 (5)
+32,North,31,5,South,0
+# Ciudad Texola (83) - Ruta 2 (33)
+83,West,4,33,East,0
+# Ruta 3 (107) - Ruta 2 (33)
+107,East,7,33,West,0
+# Ruta 5 (127) - Ruta 4 (110)
+127,West,0,110,East,0
+# zona río (123) - Ruta 4 (110)
+123,North,84,110,South,0
+# Bulensia (108) - Ruta 4 (110)
+108,North,4,110,South,0
+# Conexión ruta4-cueva chiste (131) - Ruta 4 (110)
+131,South,0,110,North,23
+# Conexión Ruta5-Pueblo Piruleta (210) - Ruta 5 (127)
+210,North,0,127,South,25
+# Ciudad Enlace exterior (150) - Ruta 5 (127)
+150,West,4,127,East,0
+# Conexión ruta4-cueva chiste (131) - Ruta 5 (127)
+131,South,16,127,North,0
+# Ciudad Enlace exterior (150) - Conexión Ruta5-Pueblo Piruleta (210)
+150,West,78,210,East,0
+# Ciudad Enlace exterior (150) - Ruta 7 (128)
+150,East,8,128,West,0
+# Ruinas del arroz con piña (32) - Sax (2)
+32,East,0,2,West,0
+# Bulensia (108) - zona río (123)
+108,West,0,123,East,0
+# Bulensia (108) - Ruta 3 (107)
+108,East,31,107,West,0
